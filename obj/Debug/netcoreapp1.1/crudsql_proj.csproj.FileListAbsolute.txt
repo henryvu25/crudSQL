@@ -1,0 +1,8 @@
+B:\CODING\CSHARP\crudsql_proj\bin\Debug\netcoreapp1.1\crudsql_proj.deps.json
+B:\CODING\CSHARP\crudsql_proj\bin\Debug\netcoreapp1.1\crudsql_proj.runtimeconfig.json
+B:\CODING\CSHARP\crudsql_proj\bin\Debug\netcoreapp1.1\crudsql_proj.runtimeconfig.dev.json
+B:\CODING\CSHARP\crudsql_proj\bin\Debug\netcoreapp1.1\crudsql_proj.dll
+B:\CODING\CSHARP\crudsql_proj\bin\Debug\netcoreapp1.1\crudsql_proj.pdb
+B:\CODING\CSHARP\crudsql_proj\obj\Debug\netcoreapp1.1\crudsql_proj.AssemblyInfo.cs
+B:\CODING\CSHARP\crudsql_proj\obj\Debug\netcoreapp1.1\crudsql_proj.dll
+B:\CODING\CSHARP\crudsql_proj\obj\Debug\netcoreapp1.1\crudsql_proj.pdb
