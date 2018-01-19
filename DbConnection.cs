@@ -7,10 +7,10 @@ namespace DbConnection
     public class DbConnector
     {
         static string server = "localhost";
-        static string db = "mydb"; //Change to your schema name
-        static string port = "3306"; //Potentially 8889
-        static string user = "root";
-        static string pass = "root";
+        static string db = ""; //Change to your schema name
+        static string port = ""; //Potentially 8889
+        static string user = "";
+        static string pass = "";
         internal static IDbConnection Connection {
             get {
                 return new MySqlConnection($"Server={server};Port={port};Database={db};UserID={user};Password={pass};SslMode=None");
